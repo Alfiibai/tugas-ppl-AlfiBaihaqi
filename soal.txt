@@ -1,0 +1,12 @@
+Nama : Alfi Baihaqi
+NPM : 20312049
+
+1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Jawab: Pelayanan Kesehatan
+
+2. Apa tujuan anda mengembangkan sistem tersebut?
+Jawab: 
+Untuk meningkatkan aksesibilitas dan kualitas perawatan kesehatan bagi individu dan masyarakat secara keseluruhan
+
+3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+Jawab: Pengguna berharap kualitas dan fungsionalitas website pelayanan kesehatan yang dapat memberikan manfaat yang maksimal dalam merawat dan memahami kesehatan mereka.
